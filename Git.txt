@@ -1,0 +1,12 @@
+[git for new repository]
+
+git init 
+
+git add .
+
+git commit -m "Commit message "
+
+git remote add origin http://
+
+git push -u origin main         Or git push origin main -f
+ 
